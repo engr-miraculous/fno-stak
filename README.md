@@ -35,7 +35,6 @@ FNO-Stak is a universal Stratum pool miner. This miner supports CPUs, AMD and NV
 If your prefered coin is not listed, you can chose one of the following algorithms:
 
 - Cryptonight - 2 MiB scratchpad memory
-- Cryptonight-light - 1 MiB scratchpad memory
 
 Please note, this list is not complete, and is not an endorsement.
 
