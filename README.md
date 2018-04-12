@@ -1,7 +1,7 @@
 Copyright (c) 2018 FNO-Stak (fonero-project)  
 Copyright (c) 2017-2018 XMR-Stak (fireice-uk's and psychocrypt's)  
 
-# FNO-Stak - Fonero All-in-One Mining Software
+# FNO-Stak - Fonero All-in-One mining software 
 
 FNO-Stak is a universal Stratum pool miner. This miner supports CPUs, AMD and NVIDIA gpus and can be used to mine the crypto currency Fonero.
 
